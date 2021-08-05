@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88522260015",
+    "project_id": "talkclonefromhawltalk20210803",
+    "storage_bucket": "talkclonefromhawltalk20210803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88522260015:android:35edf583df4bf576f750da",
+        "android_client_info": {
+          "package_name": "com.jasonoh.talkclonefromhawltalk20210803"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88522260015-o4r4mjjds2ge6iv8ne0bv0ktu9ms4moh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARyf93z7snpAdNgxazlVOqPBTvDsFF_bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88522260015-o4r4mjjds2ge6iv8ne0bv0ktu9ms4moh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
